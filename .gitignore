@@ -32,6 +32,8 @@ local.properties
 *.hprof
 .cxx/
 
+Data/
+
 # node.js
 #
 node_modules/
