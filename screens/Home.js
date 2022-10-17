@@ -168,7 +168,7 @@ const Home = ({navigation}) => {
       <TouchableOpacity
         style={{marginBottom: SIZES.padding * 2}}
         onPress={() =>
-          navigation.navigate('Restaurants', {
+          navigation.navigate('Restaurant', {
             item,
             currentLocation,
           })
