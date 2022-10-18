@@ -83,7 +83,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_1,
-      name: 'Amy',
+      name: 'Anil Kumar Prajapat',
     },
     menu: [
       {
@@ -126,7 +126,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_2,
-      name: 'Jackson',
+      name: 'Visnu Sir',
     },
     menu: [
       {
@@ -178,7 +178,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_3,
-      name: 'James',
+      name: 'Prem',
     },
     menu: [
       {
@@ -205,7 +205,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_4,
-      name: 'Ahmad',
+      name: 'Yoges Sir',
     },
     menu: [
       {
@@ -232,7 +232,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_4,
-      name: 'Muthu',
+      name: 'Amit Bhaiyha',
     },
     menu: [
       {
@@ -283,7 +283,7 @@ export const restaurantData = [
     },
     courier: {
       avatar: images.avatar_1,
-      name: 'Jessie',
+      name: 'GS',
     },
     menu: [
       {
